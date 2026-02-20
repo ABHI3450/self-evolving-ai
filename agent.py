@@ -11,7 +11,7 @@ from evaluator import evaluate_answer
 load_dotenv()
 
 # Create client
-client = OpenAI(api_key=os.getenv("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"))
+client = OpenAI(api_key=os.getenv("your api key"))
 
 # Init DB
 init_db()
@@ -65,3 +65,4 @@ Now answer clearly:
     save_memory(prompt, answer, feedback, score)
 
     return answer
+
