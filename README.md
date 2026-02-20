@@ -77,6 +77,7 @@ Visualization shows progress
 
 Abhishek Chandra
 B.Tech CSE (AI & Data Science)
+mail: abhishek69fyp@gmail.com
 GitHub: https://github.com/ABHI3450
 
 📜 License
